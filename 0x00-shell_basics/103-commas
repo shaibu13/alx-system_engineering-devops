@@ -1,3 +1,4 @@
 #!/bin/bash
-ls -avmp
+ls -amvp
+
 
