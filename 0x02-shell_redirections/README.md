@@ -4,3 +4,4 @@
 4. cat /etc/passwd /etc/hosts - displays the content of passwrd and host
 5. tail -n 10 /etc/passwd - displays last 10 lines of the file "passwd"
 6. head -n 10 /etc/passwd - displays fist /    /   /        /      /
+7. head -n 3 iocta - displays the first three lines of the fle iocta
